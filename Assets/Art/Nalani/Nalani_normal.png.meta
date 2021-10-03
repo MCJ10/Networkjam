@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 496093773ccf35247b390f60487fb891
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3985430690868502237
+    second: Nalani_normal_0
+  - first:
+      213: -2115046912667823661
+    second: Nalani_normal_1
+  - first:
+      213: -7951971178311032515
+    second: Nalani_normal_2
+  - first:
+      213: -7206837752071385650
+    second: Nalani_normal_3
+  - first:
+      213: -1748589669172690704
+    second: Nalani_normal_4
+  - first:
+      213: -1367563551524891474
+    second: Nalani_normal_5
+  - first:
+      213: -7096857461677556189
+    second: Nalani_normal_6
+  - first:
+      213: 785766624735914523
+    second: Nalani_normal_7
+  - first:
+      213: 33430287381096116
+    second: Nalani_normal_8
+  - first:
+      213: -5901314382191753705
+    second: Nalani_normal_9
+  - first:
+      213: -1025879058494588752
+    second: Nalani_normal_10
+  - first:
+      213: -1804010604111090797
+    second: Nalani_normal_11
+  - first:
+      213: 1842283794404627563
+    second: Nalani_normal_12
+  - first:
+      213: 7169869916260899815
+    second: Nalani_normal_13
+  - first:
+      213: 7141208509938792265
+    second: Nalani_normal_14
+  - first:
+      213: 1656200007830502674
+    second: Nalani_normal_15
+  - first:
+      213: 4512968106873335319
+    second: Nalani_normal_16
+  - first:
+      213: 6866802867917330220
+    second: Nalani_normal_17
+  - first:
+      213: -6001324355089256496
+    second: Nalani_normal_18
+  - first:
+      213: 3989206140277988681
+    second: Nalani_normal_19
+  - first:
+      213: -2337695520179796223
+    second: Nalani_normal_20
+  - first:
+      213: 1971394011355037813
+    second: Nalani_normal_21
+  - first:
+      213: -6745732274487174459
+    second: Nalani_normal_22
+  - first:
+      213: 8904367920287261536
+    second: Nalani_normal_23
+  - first:
+      213: 30806127804379367
+    second: Nalani_normal_24
+  - first:
+      213: -3205919347243857844
+    second: Nalani_normal_25
+  - first:
+      213: -8799467327861402723
+    second: Nalani_normal_26
+  - first:
+      213: 3540449596370795394
+    second: Nalani_normal_27
+  - first:
+      213: 4050924044019579323
+    second: Nalani_normal_28
+  - first:
+      213: -8722970421768213074
+    second: Nalani_normal_29
+  - first:
+      213: -6586685785314424127
+    second: Nalani_normal_30
+  - first:
+      213: -2346984952548719177
+    second: Nalani_normal_31
+  - first:
+      213: 675086809608917323
+    second: Nalani_normal_32
+  - first:
+      213: 164016401193961587
+    second: Nalani_normal_33
+  - first:
+      213: 7820632722554751827
+    second: Nalani_normal_34
+  - first:
+      213: 3552027287874967915
+    second: Nalani_normal_35
+  - first:
+      213: 2761466152786427448
+    second: Nalani_normal_36
+  - first:
+      213: 1360234086540149965
+    second: Nalani_normal_37
+  - first:
+      213: -5048926991558333240
+    second: Nalani_normal_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nalani_normal_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 30
+        width: 193
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde182ef8181f4730800000000000000
+      internalID: 3985430690868502237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_normal_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 28
+        width: 193
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3160ac385ce4a190800000000000000
+      internalID: -7951971178311032515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_normal_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 34
+        width: 193
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f04b07d5f2cbb7e0800000000000000
+      internalID: -1748589669172690704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_normal_6
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 32
+        width: 193
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ef0274db5e28d90800000000000000
+      internalID: -7096857461677556189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_normal_7
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 34
+        width: 193
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aedbff49a97ea00800000000000000
+      internalID: 785766624735914523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_normal_9
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 28
+        width: 193
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7168e8df5d15a1ea0800000000000000
+      internalID: -5901314382191753705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

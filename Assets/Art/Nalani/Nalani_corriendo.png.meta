@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 7bc0251a4d4a9ff4bbe4b6ce19aa81a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4318084609839859740
+    second: Nalani_corriendo_0
+  - first:
+      213: -5372274666881687643
+    second: Nalani_corriendo_1
+  - first:
+      213: 6575848941591401537
+    second: Nalani_corriendo_2
+  - first:
+      213: -8235712248892668532
+    second: Nalani_corriendo_3
+  - first:
+      213: 1895679632373167373
+    second: Nalani_corriendo_4
+  - first:
+      213: -5768892379339766349
+    second: Nalani_corriendo_5
+  - first:
+      213: 7560491795484454965
+    second: Nalani_corriendo_6
+  - first:
+      213: -8177489426955585556
+    second: Nalani_corriendo_7
+  - first:
+      213: 4185219174748962350
+    second: Nalani_corriendo_8
+  - first:
+      213: -9152473931769200273
+    second: Nalani_corriendo_9
+  - first:
+      213: -2964184908130911249
+    second: Nalani_corriendo_10
+  - first:
+      213: 4574501717576078175
+    second: Nalani_corriendo_11
+  - first:
+      213: -5033933728601945341
+    second: Nalani_corriendo_12
+  - first:
+      213: 2893368858164126427
+    second: Nalani_corriendo_13
+  - first:
+      213: 6684013610831409067
+    second: Nalani_corriendo_14
+  - first:
+      213: -4278759529042362278
+    second: Nalani_corriendo_15
+  - first:
+      213: 5168233266021780321
+    second: Nalani_corriendo_16
+  - first:
+      213: -6946451511678443779
+    second: Nalani_corriendo_17
+  - first:
+      213: -1171212674994590030
+    second: Nalani_corriendo_18
+  - first:
+      213: -649995443773746209
+    second: Nalani_corriendo_19
+  - first:
+      213: -8711152881631547651
+    second: Nalani_corriendo_20
+  - first:
+      213: -5336482616395564540
+    second: Nalani_corriendo_21
+  - first:
+      213: 7088841283409335581
+    second: Nalani_corriendo_22
+  - first:
+      213: 8487934130067727085
+    second: Nalani_corriendo_23
+  - first:
+      213: 5681234991242216960
+    second: Nalani_corriendo_24
+  - first:
+      213: 3273342668484152039
+    second: Nalani_corriendo_25
+  - first:
+      213: 6495193328420715843
+    second: Nalani_corriendo_26
+  - first:
+      213: 4363565145492528376
+    second: Nalani_corriendo_27
+  - first:
+      213: 1462691183346980186
+    second: Nalani_corriendo_28
+  - first:
+      213: -769697647704430083
+    second: Nalani_corriendo_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nalani_corriendo_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 38
+        width: 305
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f960fce41314c0800000000000000
+      internalID: -4318084609839859740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_corriendo_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 38
+        width: 230
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afdfac67a8d175b0800000000000000
+      internalID: -5372274666881687643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_corriendo_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 38
+        width: 216
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441f24a5cb124b50800000000000000
+      internalID: 6575848941591401537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_corriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 38
+        width: 242
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854b64285fd4bd80800000000000000
+      internalID: -8235712248892668532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_corriendo_4
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 38
+        width: 310
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05bb87f49ece4a10800000000000000
+      internalID: 1895679632373167373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_corriendo_5
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 27
+        width: 266
+        height: 444
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5cef522f6c0ffa0800000000000000
+      internalID: -5768892379339766349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_corriendo_6
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 31
+        width: 202
+        height: 438
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303b151b334ce860800000000000000
+      internalID: 7560491795484454965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_corriendo_7
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 38
+        width: 203
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7bccf31b8b38e80800000000000000
+      internalID: -8177489426955585556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

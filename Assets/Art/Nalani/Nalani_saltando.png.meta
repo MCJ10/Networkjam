@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 522bfab78f53e134c885824c54e6e155
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3645509685076990610
+    second: Nalani_saltando_0
+  - first:
+      213: 6111664912006745350
+    second: Nalani_saltando_1
+  - first:
+      213: -9110932858335950325
+    second: Nalani_saltando_2
+  - first:
+      213: -2001770974963175928
+    second: Nalani_saltando_3
+  - first:
+      213: 8742106550360741459
+    second: Nalani_saltando_4
+  - first:
+      213: 8063789820751490501
+    second: Nalani_saltando_5
+  - first:
+      213: -2414921196650869911
+    second: Nalani_saltando_6
+  - first:
+      213: -3886760579451357019
+    second: Nalani_saltando_7
+  - first:
+      213: -556018511135816394
+    second: Nalani_saltando_8
+  - first:
+      213: -9046137056573263283
+    second: Nalani_saltando_9
+  - first:
+      213: -6567469272894034952
+    second: Nalani_saltando_10
+  - first:
+      213: 2091175687060568854
+    second: Nalani_saltando_11
+  - first:
+      213: -12762441481283781
+    second: Nalani_saltando_12
+  - first:
+      213: -8975093519010473155
+    second: Nalani_saltando_13
+  - first:
+      213: -6618359934284792937
+    second: Nalani_saltando_14
+  - first:
+      213: -157896183754233079
+    second: Nalani_saltando_15
+  - first:
+      213: 2439061593373636636
+    second: Nalani_saltando_16
+  - first:
+      213: -5085224366813785837
+    second: Nalani_saltando_17
+  - first:
+      213: -5811958577824508003
+    second: Nalani_saltando_18
+  - first:
+      213: 5434061096060301949
+    second: Nalani_saltando_19
+  - first:
+      213: 5180632450829899551
+    second: Nalani_saltando_20
+  - first:
+      213: -6446597955637250165
+    second: Nalani_saltando_21
+  - first:
+      213: -6009462154279266226
+    second: Nalani_saltando_22
+  - first:
+      213: 2923816706910685450
+    second: Nalani_saltando_23
+  - first:
+      213: -1693230878848120711
+    second: Nalani_saltando_24
+  - first:
+      213: 68744326341495073
+    second: Nalani_saltando_25
+  - first:
+      213: -8719666342383290643
+    second: Nalani_saltando_26
+  - first:
+      213: 848159296338745408
+    second: Nalani_saltando_27
+  - first:
+      213: -1445352395302602426
+    second: Nalani_saltando_28
+  - first:
+      213: 7022907066545834
+    second: Nalani_saltando_29
+  - first:
+      213: 4511132636538185792
+    second: Nalani_saltando_30
+  - first:
+      213: 7268165228104344835
+    second: Nalani_saltando_31
+  - first:
+      213: 822749905709125717
+    second: Nalani_saltando_32
+  - first:
+      213: 8735192267388008417
+    second: Nalani_saltando_33
+  - first:
+      213: 9028876032545305958
+    second: Nalani_saltando_34
+  - first:
+      213: -4293876901061478391
+    second: Nalani_saltando_35
+  - first:
+      213: -6272268986024615076
+    second: Nalani_saltando_36
+  - first:
+      213: 2423591260995604485
+    second: Nalani_saltando_37
+  - first:
+      213: 1528786523433174571
+    second: Nalani_saltando_38
+  - first:
+      213: 2895180645600059829
+    second: Nalani_saltando_39
+  - first:
+      213: -3500564406142182800
+    second: Nalani_saltando_40
+  - first:
+      213: -6393657074086389934
+    second: Nalani_saltando_41
+  - first:
+      213: -4567372294466480247
+    second: Nalani_saltando_42
+  - first:
+      213: -5111413075386008248
+    second: Nalani_saltando_43
+  - first:
+      213: 1097797475728027620
+    second: Nalani_saltando_44
+  - first:
+      213: -255704525533365613
+    second: Nalani_saltando_45
+  - first:
+      213: 7076669968413262151
+    second: Nalani_saltando_46
+  - first:
+      213: 7587682050042098571
+    second: Nalani_saltando_47
+  - first:
+      213: 5047184846003815766
+    second: Nalani_saltando_48
+  - first:
+      213: -6507737110368780361
+    second: Nalani_saltando_49
+  - first:
+      213: -5058928920517355801
+    second: Nalani_saltando_50
+  - first:
+      213: -3624955903938347967
+    second: Nalani_saltando_51
+  - first:
+      213: -51439505180930121
+    second: Nalani_saltando_52
+  - first:
+      213: -8782059333241603366
+    second: Nalani_saltando_53
+  - first:
+      213: 6345483822951854992
+    second: Nalani_saltando_54
+  - first:
+      213: -3900328875198166765
+    second: Nalani_saltando_55
+  - first:
+      213: -473719922168703203
+    second: Nalani_saltando_56
+  - first:
+      213: 2836778197391283584
+    second: Nalani_saltando_57
+  - first:
+      213: -8891706578439675692
+    second: Nalani_saltando_58
+  - first:
+      213: -2555379245661828308
+    second: Nalani_saltando_59
+  - first:
+      213: -2374635893284266211
+    second: Nalani_saltando_60
+  - first:
+      213: 4720401297653358171
+    second: Nalani_saltando_61
+  - first:
+      213: -3651203738115811823
+    second: Nalani_saltando_62
+  - first:
+      213: 8862195330431959695
+    second: Nalani_saltando_63
+  - first:
+      213: -8515465432704922584
+    second: Nalani_saltando_64
+  - first:
+      213: 2874048738317299703
+    second: Nalani_saltando_65
+  - first:
+      213: -804284074607244683
+    second: Nalani_saltando_66
+  - first:
+      213: 3052840764174781962
+    second: Nalani_saltando_67
+  - first:
+      213: -9166037496309732540
+    second: Nalani_saltando_68
+  - first:
+      213: 8583096705899937668
+    second: Nalani_saltando_69
+  - first:
+      213: -6503467520474336889
+    second: Nalani_saltando_70
+  - first:
+      213: 1911747176142233821
+    second: Nalani_saltando_71
+  - first:
+      213: -9988490087986627
+    second: Nalani_saltando_72
+  - first:
+      213: 3036088188220080993
+    second: Nalani_saltando_73
+  - first:
+      213: 722135871320090111
+    second: Nalani_saltando_74
+  - first:
+      213: -8000400609080625807
+    second: Nalani_saltando_75
+  - first:
+      213: 5280116386194272971
+    second: Nalani_saltando_76
+  - first:
+      213: 7504485151050343599
+    second: Nalani_saltando_77
+  - first:
+      213: 2081646060744574239
+    second: Nalani_saltando_78
+  - first:
+      213: -3817885085251581801
+    second: Nalani_saltando_79
+  - first:
+      213: 2858448325352239653
+    second: Nalani_saltando_80
+  - first:
+      213: 914657169481904215
+    second: Nalani_saltando_81
+  - first:
+      213: 7596747888317091847
+    second: Nalani_saltando_82
+  - first:
+      213: -8998597150948056695
+    second: Nalani_saltando_83
+  - first:
+      213: 4617727949523249540
+    second: Nalani_saltando_84
+  - first:
+      213: 1874183958431637920
+    second: Nalani_saltando_85
+  - first:
+      213: 7939290318709415685
+    second: Nalani_saltando_86
+  - first:
+      213: 8650646685276301235
+    second: Nalani_saltando_87
+  - first:
+      213: 6301306380943367745
+    second: Nalani_saltando_88
+  - first:
+      213: 2404639833652246245
+    second: Nalani_saltando_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nalani_saltando_0
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 73
+        width: 299
+        height: 476
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656db3914c886dc0800000000000000
+      internalID: -3645509685076990610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_1
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 53
+        width: 271
+        height: 498
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d81624bdef0d450800000000000000
+      internalID: 6111664912006745350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_4
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 73
+        width: 300
+        height: 415
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3561ed20793325970800000000000000
+      internalID: 8742106550360741459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 29
+        width: 194
+        height: 441
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bbd263539550d10800000000000000
+      internalID: 2091175687060568854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 22
+        width: 206
+        height: 435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b379a0980a8a2dff0800000000000000
+      internalID: -12762441481283781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_13
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 36
+        width: 192
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b587d1fff027380800000000000000
+      internalID: -8975093519010473155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_14
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 34
+        width: 220
+        height: 438
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf64194bcd624a0800000000000000
+      internalID: -6618359934284792937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_15
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 46
+        width: 226
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b60f7e14a0fcdf0800000000000000
+      internalID: -157896183754233079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_16
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 73
+        width: 280
+        height: 393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c187552b89949d120800000000000000
+      internalID: 2439061593373636636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_23
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 48
+        width: 237
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0983cbcdcb739820800000000000000
+      internalID: 2923816706910685450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_24
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 49
+        width: 236
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978098f9c7f6088e0800000000000000
+      internalID: -1693230878848120711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nalani_saltando_27
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 45
+        width: 237
+        height: 343
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485733e26445cb00800000000000000
+      internalID: 848159296338745408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
